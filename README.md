@@ -51,7 +51,7 @@ The project uses the Malimg dataset, which consists of 9,339 malware images cate
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.10.x
 - TensorFlow
 - Keras
 - Scikit-learn
