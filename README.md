@@ -22,11 +22,11 @@ The project uses the Malimg dataset, which consists of 9,339 malware images cate
 
 ## Architecture Diagram
 
-![CNN MobileNetV1 Architecture](https://github.com/abhisheksingh789/CyberVision-Advanced-Visual-Malware-Classification/blob/main/CNN-MobileNetv1.jpg)
+![CNN MobileNetV1 Architecture](https://github.com/dhruvvk2326/cybervision/blob/main/CNN-MobileNetv1.jpg)
 
 ## Malimg Dataset Details
 
-![Malimg Dataset](https://github.com/abhisheksingh789/CyberVision-Advanced-Visual-Malware-Classification/blob/main/Malimg_dataset.png)
+![Malimg Dataset](https://github.com/dhruvvk2326/cybervision/blob/main/Malimg_dataset.png)
 
 ## Results
 
