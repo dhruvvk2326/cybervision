@@ -27,9 +27,9 @@ from tensorflow.keras.callbacks import EarlyStopping
 # %%
 # Define directories
 os.environ['CUDA_VISIBLE_DEVICES'] = '-1'
-train_dir = '/home/btech/2021/abhishek.kumar21b/malware_detection/malimg_dataset/train'
-test_dir = '/home/btech/2021/abhishek.kumar21b/malware_detection/malimg_dataset/test'
-val_dir = '/home/btech/2021/abhishek.kumar21b/malware_detection/malimg_dataset/val'
+train_dir = 'C:/Users/dhruv/Desktop/project/CyberVision-Advanced-Visual-Malware-Classification-main/malimg_dataset/train'
+test_dir = 'C:/Users/dhruv/Desktop/project/CyberVision-Advanced-Visual-Malware-Classification-main/malimg_dataset/test'
+val_dir = 'C:/Users/dhruv/Desktop/project/CyberVision-Advanced-Visual-Malware-Classification-main/malimg_dataset/val'
 
 # %%
 image_size = (224, 224, 3)
